@@ -39,7 +39,7 @@ education:
     - course: Columbia University
       institution: MS in Computer Science
       year: 2024
-    - course: Birla Institute of Technology and Science, Pilani
+    - course: BITS Pilani
       institution: BE in Computer Science 
       year: 2023
 
