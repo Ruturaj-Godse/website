@@ -29,22 +29,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Agent Based Modelling
+  - Algorithms and Complexity
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Computer Science
+      institution: Columbia University
+      year: 2023 - 2024
+    - course: BE in Computer Science 
+      institution: Birla Institute of Technology and Science, Pilani
+      year: 2019 - 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am a CS master's student at Columbia University specialising in Machine Learning. My research interests include machine learning, agent based modelling, and algorithms and complexity. I pursue competitive programming as a hobby, as it challenges me to solve some of the common problems faced in the computing industry in an abstract way. I have previously interned at D. E. Shaw and American Express as a software engineer. I am currently seeking exciting opportunities in the field of Software Engineering, Machine Learning, and Quantitative Development.
+I am a CS master's student at Columbia University specialising in Machine Learning. My research interests include machine learning, agent based modelling, and algorithms and complexity. I pursue competitive programming as a hobby, as it challenges me to solve some of the common problems faced in the computing industry in an abstract way. I have previously interned at D. E. Shaw and American Express as a software engineer and research analyst respectively. I am currently seeking exciting internship opportunities in the field of Software Engineering, Machine Learning, and Quantitative Development.
 {style="text-align: justify;"}
