@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Computer Science
-      institution: Columbia University
-      year: 2023 - 2024
+    - course: Columbia University
+      institution: MS in Computer Science
+      year: 2024
     - course: BE in Computer Science 
       institution: Birla Institute of Technology and Science, Pilani
       year: 2019 - 2023
