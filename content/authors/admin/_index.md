@@ -50,7 +50,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: ''
         icon: python
         icon_pack: fab
       - name: Data Science
