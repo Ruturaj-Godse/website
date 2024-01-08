@@ -17,7 +17,7 @@ last_name: Godse
 superuser: true
 
 # Role/position/tagline
-role: Master's Student at Columbia University
+role: MS CS at Columbia University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a CS master's student at Columbia University specialising in Machine Learning. My research interests include machine learning, agent based modelling, and algorithms and complexity. I pursue competitive programming as a hobby, as it challenges me to solve some of the common problems faced in the computing industry in an abstract way. I have previously interned at D. E. Shaw and American Express as a software engineer. I am currently seeking exciting opportunities in the field of Software Engineering, Machine Learning, and Quantitative Development.
 {style="text-align: justify;"}
